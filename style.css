@@ -1,0 +1,27 @@
+.image-box{
+    text-align: center;
+    width: 50%;
+    margin-left:25%;
+}
+
+
+.white-text{
+color: white;
+font-family: "Libre Baskerville", serif;
+}
+
+
+ img{
+    
+    border: white solid 5px;
+ }
+
+
+
+
+
+body{
+    background-color: black;
+}
+
+
